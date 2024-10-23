@@ -23,3 +23,5 @@ Play is an open-source template, you can use it with your personal or commercial
 ## 💙 Support
 You can always support this project by [Starring🌟 This Repository](https://github.com/uideck/play-bootstrap) 
 and sharing with friends. Also open an issue if you find bug or feel free to contribute by pull requests after fixing any issue or adding more values.
+
+this repo was forked by me on 23 oct 2024
